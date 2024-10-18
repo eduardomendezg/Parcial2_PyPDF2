@@ -1,0 +1,4 @@
+Librerias necesarias para la ejecución de los ejercicios:
+PyPDF2
+comando de instalación en cmd: 
+pip install PyPDF2
